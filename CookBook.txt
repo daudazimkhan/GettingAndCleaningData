@@ -40,567 +40,567 @@ Data Dictionary for our Tidy Data:
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		SubjectID
 Column Number:		01
-Type:				INTEGER
+Type:			INTEGER
 Possible Values:	1 to 30
 Description:		This shows who performed the activity
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		Activity
 Column Number:		02
-Type:				CHARACTER
+Type:			CHARACTER
 Possible Values:	LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS
 Description:		This shows which activity was performed
 ----------------------------------------------------------------------------------------------------------
 
 Variable Name:		tBodyAccmeanX
 Column Number:		3
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAcc-mean()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccmeanY
 Column Number:		4
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAcc-mean()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccmeanZ
 Column Number:		5
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAcc-mean()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccstdX
 Column Number:		6
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAcc-std()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccstdY
 Column Number:		7
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAcc-std()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccstdZ
 Column Number:		8
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAcc-std()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tGravityAccmeanX
 Column Number:		9
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tGravityAcc-mean()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tGravityAccmeanY
 Column Number:		10
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tGravityAcc-mean()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tGravityAccmeanZ
 Column Number:		11
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tGravityAcc-mean()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tGravityAccstdX
 Column Number:		12
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tGravityAcc-std()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tGravityAccstdY
 Column Number:		13
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tGravityAcc-std()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tGravityAccstdZ
 Column Number:		14
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tGravityAcc-std()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccJerkmeanX
 Column Number:		15
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAccJerk-mean()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccJerkmeanY
 Column Number:		16
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAccJerk-mean()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccJerkmeanZ
 Column Number:		17
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAccJerk-mean()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccJerkstdX
 Column Number:		18
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAccJerk-std()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccJerkstdY
 Column Number:		19
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAccJerk-std()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccJerkstdZ
 Column Number:		20
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAccJerk-std()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyromeanX
 Column Number:		21
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyro-mean()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyromeanY
 Column Number:		22
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyro-mean()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyromeanZ
 Column Number:		23
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyro-mean()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyrostdX
 Column Number:		24
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyro-std()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyrostdY
 Column Number:		25
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyro-std()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyrostdZ
 Column Number:		26
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyro-std()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyroJerkmeanX
 Column Number:		27
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyroJerk-mean()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyroJerkmeanY
 Column Number:		28
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyroJerk-mean()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyroJerkmeanZ
 Column Number:		29
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyroJerk-mean()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyroJerkstdX
 Column Number:		30
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyroJerk-std()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyroJerkstdY
 Column Number:		31
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyroJerk-std()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyroJerkstdZ
 Column Number:		32
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyroJerk-std()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccMagmean
 Column Number:		33
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAccMag-mean()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccMagstd
 Column Number:		34
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAccMag-std()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tGravityAccMagmean
 Column Number:		35
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tGravityAccMag-mean()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tGravityAccMagstd
 Column Number:		36
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tGravityAccMag-std()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccJerkMagmean
 Column Number:		37
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAccJerkMag-mean()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyAccJerkMagstd
 Column Number:		38
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyAccJerkMag-std()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyroMagmean
 Column Number:		39
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyroMag-mean()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyroMagstd
 Column Number:		40
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyroMag-std()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyroJerkMagmean
 Column Number:		41
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyroJerkMag-mean()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		tBodyGyroJerkMagstd
 Column Number:		42
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'tBodyGyroJerkMag-std()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccmeanX
 Column Number:		43
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAcc-mean()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccmeanY
 Column Number:		44
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAcc-mean()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccmeanZ
 Column Number:		45
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAcc-mean()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccstdX
 Column Number:		46
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAcc-std()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccstdY
 Column Number:		47
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAcc-std()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccstdZ
 Column Number:		48
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAcc-std()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccmeanFreqX
 Column Number:		49
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAcc-meanFreq()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccmeanFreqY
 Column Number:		50
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAcc-meanFreq()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccmeanFreqZ
 Column Number:		51
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAcc-meanFreq()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccJerkmeanX
 Column Number:		52
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAccJerk-mean()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccJerkmeanY
 Column Number:		53
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAccJerk-mean()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccJerkmeanZ
 Column Number:		54
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAccJerk-mean()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccJerkstdX
 Column Number:		55
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAccJerk-std()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccJerkstdY
 Column Number:		56
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAccJerk-std()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccJerkstdZ
 Column Number:		57
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAccJerk-std()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccJerkmeanFreqX
 Column Number:		58
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAccJerk-meanFreq()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccJerkmeanFreqY
 Column Number:		59
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAccJerk-meanFreq()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccJerkmeanFreqZ
 Column Number:		60
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAccJerk-meanFreq()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyromeanX
 Column Number:		61
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyGyro-mean()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyromeanY
 Column Number:		62
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyGyro-mean()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyromeanZ
 Column Number:		63
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyGyro-mean()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyrostdX
 Column Number:		64
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyGyro-std()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyrostdY
 Column Number:		65
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyGyro-std()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyrostdZ
 Column Number:		66
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyGyro-std()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyromeanFreqX
 Column Number:		67
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyGyro-meanFreq()-X'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyromeanFreqY
 Column Number:		68
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyGyro-meanFreq()-Y'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyromeanFreqZ
 Column Number:		69
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyGyro-meanFreq()-Z'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccMagmean
 Column Number:		70
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAccMag-mean()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccMagstd
 Column Number:		71
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAccMag-std()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccMagmeanFreq
 Column Number:		72
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyAccMag-meanFreq()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccJerkMagmean
 Column Number:		73
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyBodyAccJerkMag-mean()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccJerkMagstd
 Column Number:		74
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyBodyAccJerkMag-std()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyAccJerkMagmeanFreq
 Column Number:		75
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyBodyAccJerkMag-meanFreq()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyroMagmean
 Column Number:		76
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyBodyGyroMag-mean()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyroMagstd
 Column Number:		77
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyBodyGyroMag-std()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyroMagmeanFreq
 Column Number:		78
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyBodyGyroMag-meanFreq()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyroJerkMagmean
 Column Number:		79
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyBodyGyroJerkMag-mean()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyroJerkMagstd
 Column Number:		80
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyBodyGyroJerkMag-std()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
 Variable Name:		fBodyGyroJerkMagmeanFreq
 Column Number:		81
-Type:				NUMERIC
+Type:			NUMERIC
 Possible Values:	-1 to 1
 Description:		This shows the average of the feature named 'fBodyBodyGyroJerkMag-meanFreq()'
-					for the corresponding subjectID, Activity pair
+			for the corresponding subjectID, Activity pair
 ----------------------------------------------------------------------------------------------------------
