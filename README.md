@@ -1,7 +1,10 @@
 Assumptions:
+
   1 - The analysis was performed in R (v3.1.2)
+  
   2 - The script run_analysis.R asumes that the Samsung data is available
       in the working directory in an unzipped UCI HAR Dataset folder.
+  
   3 - The package 'sqldf' is installed.
 
 Note:
@@ -12,6 +15,7 @@ Note:
   
 Analysis Overview:
   We were required to include the following in the analysis:
+  
     1 - Merges the training and the test sets to create one data set.
         This script store the above required dataframe in object: completeData
         
@@ -34,6 +38,7 @@ Analysis Overview:
 
 Flow of the script:
 The analysis script performs the following steps:
+
 01 -  Load all the required files from "UCI HAR Dataset" folder:
         a - "test\\X_test.txt"
         b - "train\\X_train.txt"
