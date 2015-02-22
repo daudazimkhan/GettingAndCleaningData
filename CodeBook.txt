@@ -34,7 +34,19 @@ There were 79 such variables. Subject and activity information was added and the
 changed to 1029 X 81. The average of each variable was calculated for each activity and each subject
 and recorded in a new dataset. there were 30 subjects and 6 activities, therefore the total number of
 records are 30 X 60 = 180. This is our Tidy data. Also remember that the all the readings except
-column one and two are normalized are normalized [-1 to 1]
+column one and two are normalized are normalized [-1 to 1] as mentioned in the provided readme.txt
+
+A note about the units:
+The values in coulmn 3 to 81 are normalized and therefore don't have any units. To understand this, we have to
+understand what does normalized data mean. The below quote explains it well:
+
+"...The second type of normalization originates from statistics,
+and eliminates the unit of measurement by transforming the data
+into new scores with a mean of 0 and a standard deviation of 1.
+These transformed scores are known as Z-scores"
+
+Reference:
+Abdi, H., & Williams, L. J. (2010). Normalizing data. Encyclopedia of research design, 935-938.
 
 Data Dictionary for our Tidy Data:
 ----------------------------------------------------------------------------------------------------------
