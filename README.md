@@ -1,10 +1,10 @@
 Assumptions:
 
   1 - The analysis was performed in R (v3.1.2)
-  
+      
   2 - The script run_analysis.R asumes that the Samsung data is available
       in the working directory in an unzipped UCI HAR Dataset folder.
-  
+      
   3 - The package 'sqldf' is installed.
 
 Note:
