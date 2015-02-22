@@ -37,8 +37,9 @@ records are 30 X 60 = 180. This is our Tidy data. Also remember that the all the
 column one and two are normalized are normalized [-1 to 1] as mentioned in the provided readme.txt
 
 A note about the units:
-The values in coulmn 3 to 81 are normalized and therefore don't have any units. To understand this, we have to
-understand what does normalized data mean. The below quote explains it well:
+Column 01 and 02 has categorical data therefor does not have units. The values in coulmn 3 to 81 are
+quantitative but are normalized and therefore don't have any units. To understand this, we have to
+understand what does normalized data mean. The following quote explains it well:
 
 "...The second type of normalization originates from statistics,
 and eliminates the unit of measurement by transforming the data
