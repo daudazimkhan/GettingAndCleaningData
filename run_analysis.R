@@ -74,7 +74,7 @@ columnNames <- as.character(levels(features[rownums_std_mean,2]))[features[rownu
 columnNames <- gsub("BodyBody","Body",gsub('-','',gsub('\\()','',columnNames)))
 
 stepFourData <- combinedData
-colnames(stepFourData) <- c("Subject Number", "Activity Performed", columnNames)
+colnames(stepFourData) <- c("SubjectNumber", "ActivityPerformed", columnNames)
 
 # Step 04 resulted in the dataframe named: stepFourData
 # ---------------------------------------------------------------------------------
